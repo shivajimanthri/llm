@@ -2,3 +2,4 @@ streamlit
 pandas
 transformers
 tensorflow
+libgl1-mesa-glx
